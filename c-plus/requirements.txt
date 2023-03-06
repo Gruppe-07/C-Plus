@@ -1,2 +1,0 @@
-guppy==0.1.11
-setuptools==65.6.3
